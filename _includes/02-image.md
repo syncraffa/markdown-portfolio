@@ -1,3 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
-[Immagine del mio idolo: Paperino] (https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck.svg)
-
+![Immagine del mio idolo: Paperino] (https://www.pngitem.com/pimgs/m/74-742851_donald-duck-happy-png-image-transparent-donald-duck.png)
